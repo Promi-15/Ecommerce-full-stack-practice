@@ -15,7 +15,7 @@ const Collection = () => {
   
  
 
-
+// console.log(category)
 
   const toggleCategory = (e) => {
     if (category.includes(e.target.value)) {
